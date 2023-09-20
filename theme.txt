@@ -10,3 +10,5 @@ https://electrox.arenacommerce.com/
 
 free theme url
 https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
+rtnts url
+https://rtntstrainings.rtnts.com/
